@@ -26,9 +26,8 @@ _If your candidate has completed the Cloud or Quality Engineering specialism, pl
 - What was the goal?
 - Why did you choose this story to illustrate this accomplishment?
 - What other stories can you think of that demonstrate this?
-- Could you come up with an example that is more recent
-- How did you measure success for this project?
-
+- Could you come up with an example that is more recent?
+- How did you measure the success of this project?
 
 
 
