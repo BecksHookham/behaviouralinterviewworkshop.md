@@ -1,5 +1,15 @@
 - **How to Give Feedback**: [Guide](https://github.com/BecksHookham/Tech_Interviews.md/blob/main/feedback.md)
 
+## Interview Questions
+
+[Interview One](https://github.com/BecksHookham/behaviouralinterviewworkshop.md/blob/main/interviewone.md)
+
+[Interview Two](https://github.com/BecksHookham/behaviouralinterviewworkshop.md/blob/main/interviewtwo.md)
+
+[Interview Three](https://github.com/BecksHookham/behaviouralinterviewworkshop.md/blob/main/interviewtwo.md])
+
+
+
 ## Interview Structure
 
 ### Group of 3
