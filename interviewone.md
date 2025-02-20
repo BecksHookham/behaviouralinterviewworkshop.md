@@ -1,4 +1,5 @@
 # Interview Questions
+_If your candidate has completed the Cloud or Quality Engineering specialism, please switch out the word Software Developer accordingly._
 
 1. **Tell me the story of how you became who you are today.**
 
@@ -13,3 +14,16 @@
 6. **Tell me about a recent failure and what you learned from the experience.**
 
 7. **Where do you see your career evolving over the next few years?**
+
+## Prompts
+_Use to dig deeper into the answers given_
+
+- Tell me more about...
+- If you could go back, is there anything you would have done differently?
+- What did you learn from this?
+- Why is this important?
+- What was the goal?
+- Why did you choose this story to illustrate this accomplishment?
+- What other stories can you think of that demonstrate this?
+- Could you come up with an example that is more recent
+- How did you measure success for this project?
