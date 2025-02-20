@@ -1,5 +1,5 @@
 # Interview Three
-_If your candidate has completed the Cloud or Quality Engineering specialism, please switch out the word Software Developer accordingly_
+_If your candidate has completed the Cloud or Quality Engineering specialism, please switch out the word Software Developer accordingly._
 
 1. **Walk me through your background and career journey so far. What key achievements are you most proud of?**
 
